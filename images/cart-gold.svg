@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="20" height="20" transform="translate(0 0.5)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="cart-gold" transform="translate(0 -0.5)" clip-path="url(#clip-path)">
+    <path id="Path_1" data-name="Path 1" d="M18.674,19.843,17.154,5.367a.6.6,0,0,0-.592-.533H13.7V4.183a3.683,3.683,0,0,0-7.365,0v.651H3.483a.6.6,0,0,0-.592.533L1.37,19.843a.6.6,0,0,0,.592.657H18.082a.6.6,0,0,0,.592-.657ZM7.53,4.183a2.492,2.492,0,0,1,4.984,0v.651H7.53ZM2.623,19.309l1.4-13.285H6.34V7.336a.6.6,0,0,0,1.19,0V6.024h4.984V7.336a.6.6,0,1,0,1.19,0V6.024h2.321l1.4,13.285Z" fill="#b19b78"/>
+  </g>
+</svg>
